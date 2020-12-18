@@ -1,7 +1,10 @@
 # Data analysis
-- Document here the project: ScrapChef
-- Description: Project Description
-- Data Source:
+- Document here the project: *ScrapChef*
+- Description:
+**subject**: To contribute a bit to reducing food waste
+by never having to throw away uncooked ingredients
+while having fun with exploring new recipes
+- Data Source: kaggle
 - Type of analysis:
 
 Please document the project the better you can.
@@ -61,10 +64,10 @@ Functionnal test with a script:
 ```bash
   $ cd /tmp
   $ ScrapChef-run
-``` 
+```
 
 # Continus integration
-## Github 
+## Github
 Every push of `master` branch will execute `.github/workflows/pythonpackages.yml` docker jobs.
 ## Gitlab
 Every push of `master` branch will execute `.gitlab-ci.yml` docker jobs.
