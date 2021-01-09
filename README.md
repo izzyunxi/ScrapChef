@@ -7,8 +7,6 @@ while having fun with exploring new recipes
 - Data Source: kaggle
 - Type of analysis:
 
-Please document the project the better you can.
-
 # Stratup the project
 
 The initial setup.
